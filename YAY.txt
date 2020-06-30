@@ -1,0 +1,6 @@
+Announcment!
+I have achieved untethered code-execution on iOS 8.2 (wait, I know this sounds dumb, just wait), usable for an untethered jailbreak!
+Wait.
+This same oversight should be able to be used on iOS 10.3.3! :D (helo to A7)
+
+FMSL ;)
